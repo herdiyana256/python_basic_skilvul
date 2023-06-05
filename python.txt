@@ -1,0 +1,193 @@
+MENGENAL BAHASA PEMOGRAMAN PYTHON 
+
+TAHUN 2020, PYTHON MERUPAKAN BAHASA PEMOGRAMAN YANG POPULER DIGUNAKAN BAHKAN OLEH PERUSAHAAN BESAR . 
+
+
+
+APA ITU BAHASA PEMOGRAMAN PYTHON ? 
+- Python merupakan bahasa pemograman tingkat tinggi dan merupakan salah satu bahsa pemograman terpopuler di dunia . 
+- Python merupakan salah satu general purpose programming language yang dapat digunakan untuk berbagai aplikasi.
+  Sehingga Python banyak digunakan untuk berbagai macam program  mulai dari Artificial Intelligence, IoT,Data Science, Web Development hingga automation. 
+
+- Python menjadi salah satu bahasa pemograman yang paling diminati karena bisa diterapkan untuk berbagai macam aplikasi . 
+
+
+
+Kenapa Python Begitu Terkenal ? 
+Python dapat ditulis dan di interpretasikan sama seperti bahasa sehari-hari manusia, sehingga mudah di baca dan dipelajari oleh pemula. 
+Anda dapat merancang alur program dalam bahasa manusia dan mengubah nya ke kode Python yang sebenarnya dengan sangat mudah. 
+
+
+
+Contoh sintaks Python : 
+if 4 in [1,2,3,4]: print ("Terdapat angka 4!")
+
+interprestasi : 
+jika ada angka 4 diantara 1,2,3,4 tampilan "Terdapat angka 4!"
+
+python memiliki berbagai library dan tools, seperti  pandas, NumPy, SciPy, Matplotlib, TensorFlowm dan keras yang dapat digunakan secara luas di berbagai bidang seperti pengembangan web, analisa data, dan kecerdasan buatan (Artificial Intelegence). 
+
+
+Contoh Library : 
+- TensorFlow didasarkan pada aliran data dan pemograman diferensial, yang berfokus pada dep neural network untuk machine learning. 
+- Pandas digunakan untuk manipulasi dan analisis data, tertama menampilkan tabel numerik dan operasi deret waktu. 
+Python tidak hanya di minati di bidang pendidikan tetapi juga oleh banyak developer di perusahaan ternama, termasuk Google, Intel, eBay, Neflix, Instagram, Dropbox, dan Slack, menggunakan Python untuk mengembangkan dan memelihara aplikasi mereka. 
+
+1. Google menggunakan Python untuk meningkatkan kapabilitas search engine 
+2. Neflix menggunakan Python untuk merekomendasi film, TV shows berdasarkan historical data
+3. Instagram menggunakan Python  mempeersonalisasi bagian explore untuk pengguna
+4. dan masih banyaj lagi . 
+
+
+Penerapan Python pada Berbagai Kategori : 
+1. Artificial Intelligence  * Machine Learning 
+2.  Data Science & Data Visualization 
+3.  Web Development 
+4. Game Development 
+5.  Automation 
+6. Software Testing and Prototyping 
+7. Simplifying every dat tasks through automation 
+
+
+
+==========================================================================
+
+
+INSTALASI DAN SETUP PYTHON 3 
+KITA PERLU MENGINSTALL PYTHON TERLEBIH DAHULU PADA KOMPUTER ATAU LAPTOP YANG AKAN KITA GUNAKAN. 
+UNTUK MENJALANKAN KODE PROGRAM KITA PADA PYTHON, DOWNLOAD VERSI TERBARU PYTHON 3 . 
+
+https://www.python.org/downloads/release/python-3113/
+Windows - 64 byte 
+
+
+
+
+
+# MEMBUAT KODE PYTHON PADA KODE EDITOR : 
+PADA TOPIK SEBELUM NYA, KAMU SUDAH BERHASIL MELAKUKAN INSTALASI PYTHON 3 PADA KOMPUTER ATAU LAPTOP. 
+LALU KAMU JUGA BISA MEMBUAT DAN MENJALANKAN SINTAKS PYTHON 3 MENGGUNAKAN COMMAND PROMPT ATAU TERMINAL. 
+
+
+
+
+* 0 INSTALL PYTHON EXTENSION 
+* 1 OPEN PROJECT 
+* 2 CREATE NEW FILE 
+kamu dapat membuat file baru dengan klik ikon yang tertera . 
+untuk membuat file Python, kamu harus menggunakan format .py . sebagai nama dari file tersebut. contoh : Hello.py 
+
+
+
+
+
+
+PYTHON INTRODUCTION  
+1. MENEGNAL BAHASA PEMOGRAMAN PYTHON 
+2. INSTALASI DAN SETUP PYTHON 3 
+3. MEMBUAT KODE PYTHON PADA KODE EDITOR
+4. PYTHON SYNTAX - PRINT FUNCTION 
+5. PYTHON SYNTAX - COMMENT 
+6. ERROR IN PYTHON 
+
+
+TYPE DATA DAN OPERATOR 
+1. TIPE DATA BASIC
+2. TIPE  DATA STRING
+3. OPERATOR BASIC 
+4. PRIORITAS OPERATOR
+5. BUILT-IN FUNCTION 
+
+
+
+VARIABLE DAN INPUT : 
+1. APA ITU VARIABLE 
+2. DEKLARASI VARIABLE
+3. VARIABLE ASSIGNMENT 
+4.COMPOUND ASSIGNMENT OPERATOR
+5. OPERATOR ARTIMATIKA 
+6. INPUT FUNCTION 
+
+
+LOGICAL AND COMPARISON OPERATORS 
+1. COMPARISON OPERATORS
+2. COMPARISON OPERATOR IS & IN 
+3. LOGICAL OPERATORS 
+
+
+
+CONDITIONAL STATEMENT 
+1. SELECTION STRUCTURE CONCEPT 
+2. IF STATEMENT SYNTAX 
+3. INDETATION 
+4. PASS KEYWORD
+5. ELIF STATEMENT 
+6. IF ELSE STATEMENT 
+7. NESTED CONDITION STATEMENT 
+
+LOOPS 
+1. BASIC LOOP - FOR LOOP 
+2. BASIC LOOP - FOR LOOP SYNTAX 
+3. SEQUENCE OBJECT ITERATION 
+4. WHILE VS FOR LOOP 
+5. WHILE LOOP SYNTAX 
+6. BREAK VS CONTINUE KEYWOARD 
+7. NESTED LOOP 
+
+
+
+SEQUENCE DATA TYPES 
+1. MUTABLE VS IMMUTABLE DATA TYPES 
+2. LIST - DECLARATION 
+3. LIST - INDEXING 
+4. LIST - ADDITION AND DELETION 
+5. LIST - SLICING 
+6. LIST - IN OPERATOR 
+7. TYPLE - BASICS 
+8. SEQUENCE DATA TYPES - INTRO 
+9. SEQUENCE DATA TYPES - ITERATOR 
+10.SEQUENCE DATA TYPES - COUNT METHOD 
+11. SEQUENCE DATA TYPES - LINKING 
+12. SEQUENCE DATA TYPES - OPERATORS 
+
+DICTIONARY DATA TYPES 
+1. DICTIONARY - BASICS 
+2. DICTIONARY - KEY VALUE PAIR 
+3. DICTIONARY - ADDITING, MODIFYING, DELETE VALUE 
+4. DICTIONARY - FUNCTION AND OPERATORS 
+5. JSON DATATYPES - BASICS 
+6. JSON - READ AND EXPORTING 
+
+
+2D LIST 
+1. CREATING 2D LISTS 
+2. INDEXING 2D LISTS 
+3.  DOUBLE LOOP 2D LISTS 
+
+
+DICTIONARY METHODS 
+1. DICTIONARY - GET METHOD 
+2. DICTIONARY - POP,POPITEM, CLEAR METHOD 
+3. DICTIONARY - ITEMS, KEYS, VALUES 
+4. DICTIONARY - UPDATE 
+5. DICTIONARY - ASSIGNMENT AND COPYING METHOD 
+6. DICTIONARY - DEFAULT DICT 
+7. DICTIONARY - DOUBLE DICTIONARY 
+8. DICTIONARY - FORM KEYS METHOD 
+
+
+SET DATA TYPES : 
+1. SET - DEFINITION AND DECLARATION 
+2. SET - CHECK VALUE IN  SETS 
+3. SET - UNION AND INTERSECTION 
+4. SET - DIFFERENCE AND SYMMETRIC DIFFERENCE 
+5.SET - SUBSET AND SUPERSET 
+
+
+
+
+
+
+
+
+
